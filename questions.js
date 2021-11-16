@@ -1,8 +1,8 @@
 var cmds = [
-    {cmd:["test"]
+    {cmd:["test"],
     count:0,
     tags:["t6l"],
-    response: " pass\n"
+    response: " pass"
     },
 ];
 
