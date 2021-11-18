@@ -1,2 +1,2 @@
 # t6l
-terminal
+terminal https://t6l.website
