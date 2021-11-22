@@ -4,7 +4,7 @@
         tags:["t6l"],
         response:
                 " OK hotshot, key commands to mastery are:\n"+
-                " ls dir cd pwd cp copy rm mkdir rmdir del man apropos sudo lynx ssh ssh-keygen cat | echo more grep vi git set tmux irssi mount wget ps\n" } ,
+                " ls dir cd pwd cp copy rm mkdir rmdir del man apropos sudo ssh ssh-keygen cat | echo more grep vi git set screen irssi mount wget ps\n" } ,
        {cmd:["help site"],
         count:0,
         tags:["t6l"],
